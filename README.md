@@ -10,6 +10,7 @@ I'm a passionate developer with a strong interest in building useful and meaning
 ---
 
 ### 🔧 Worked On
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
